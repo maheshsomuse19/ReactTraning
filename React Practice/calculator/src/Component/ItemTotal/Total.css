@@ -1,0 +1,29 @@
+.totalouter{
+    /* display: flex; */
+    border: 1px solid black;
+    margin: 2rem;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 60%; */
+    width: 70%;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+.calculate{
+    display: flex;
+    width: auto;
+    justify-content: space-between;
+
+}
+.sign{
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+
+.result{
+    width: 200%;
+
+}

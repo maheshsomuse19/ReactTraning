@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.App {
+  margin-top: 100px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 12px;
+  /* background-image: url('https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg?w=1380&t=st=1661196017~exp=1661196617~hmac=71e5e742288210270aafa0c23d0f7712c7920dbb63eac2268e7a4b75ae215122'); */
+}
+

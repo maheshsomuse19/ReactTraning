@@ -1,0 +1,31 @@
+.container{
+    border-radius: 30px;
+    border: 1px solid black;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+  color: #F87474;
+  margin-bottom: 10px;
+}
+.inner{
+        margin:40px 120px;
+}
+.input1{
+    padding: 10px 70px;
+    border-radius: 10px;
+}
+.dateinput{
+    padding: 10px 95px;
+    border-radius: 10px;
+}
+.addbutton{
+    background-color: #3AB0FF;
+    padding: 5px 140px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    color: #3AB0FF;
+}
